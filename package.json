@@ -1,0 +1,13 @@
+{
+  "name": "randomchinese",
+  "README": "README.md",
+  "version": "0.0.1",
+  "description": "Sends the output of `chinese-random-skill` to stdout",
+  "main": "index.js",
+  "author": "ByzantineFailure <byzanitnefailure@gmail.com>",
+  "dependencies": {
+    "chinese-random-skill": "0.0.3-rdm"
+  },
+  "license": "MIT",
+  "repository": "https://github.com/ByzantineFailure/randomchinese"
+}
